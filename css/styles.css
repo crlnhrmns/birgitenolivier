@@ -10048,7 +10048,11 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
+<<<<<<< HEAD
   background-color: #212529;
+=======
+  background-color: #14004A;
+>>>>>>> parent of b50bac3 (update)
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
