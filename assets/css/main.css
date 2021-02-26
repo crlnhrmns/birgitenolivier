@@ -99,8 +99,13 @@ input, select, textarea {
 	}
 
 	body {
+<<<<<<< HEAD
 		background-color: #14004A;
 		background-image: linear-gradient(to top, rgba(20, 0, 74, 0.8), rgba(20, 0, 74, 0.4)), url("../../images/bg.jpg");
+=======
+		background-color: #00008b;
+		background-image: linear-gradient(to top, rgba(0,0,139, 0.8), rgba(0,0,139, 0.4)), url("../../images/bg.jpg");
+>>>>>>> parent of 02ef3c1 (Revert "Update main.css")
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -3258,7 +3263,11 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+<<<<<<< HEAD
 		background: rgba(20, 0, 74, 0.8);
+=======
+		background: rgba(0,0,139, 0.8);
+>>>>>>> parent of 02ef3c1 (Revert "Update main.css")
 		cursor: default;
 		height: 100%;
 		left: 0;
@@ -3465,8 +3474,13 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
+<<<<<<< HEAD
 				background-color: #14004A;
 				background-image: linear-gradient(to top, rgba(20, 0, 74, 0.8), rgba(167, 159, 187, 0.8)), url("../../images/bg.jpg");
+=======
+				background-color: #00008b;
+				background-image: linear-gradient(to top, rgba(0,0,139, 0.8), rgba(167, 159, 187, 0.8)), url("../../images/bg.jpg");
+>>>>>>> parent of 02ef3c1 (Revert "Update main.css")
 				background-size: auto,
  cover;
 				background-position: center,
@@ -3577,8 +3591,13 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
+<<<<<<< HEAD
 			background-color: #14004A;
 			background-image: linear-gradient(to top, rgba(20, 0, 74, 0.8), rgba(20, 0, 74, 0.8)), url("../../images/bg.jpg");
+=======
+			background-color: #00008b;
+			background-image: linear-gradient(to top, rgba(0,0,139, 0.8), rgba(0,0,139, 0.8)), url("../../images/bg.jpg");
+>>>>>>> parent of 02ef3c1 (Revert "Update main.css")
 			background-size: auto,
  cover;
 			background-position: center,
@@ -4070,8 +4089,13 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		#footer {
+<<<<<<< HEAD
 			background-color: #14004A;
 			background-image: linear-gradient(to top, rgba(20, 0, 74, 0.8), rgba(20, 0 74, 0.8)), url("../../images/bg.jpg");
+=======
+			background-color: #00008b;
+			background-image: linear-gradient(to top, rgba(0,0,139, 0.8), rgba(20, 0 74, 0.8)), url("../../images/bg.jpg");
+>>>>>>> parent of 02ef3c1 (Revert "Update main.css")
 			background-size: auto,
  cover;
 			background-position: center,
