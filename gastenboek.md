@@ -13,7 +13,7 @@ permalink: /gastenboek/
 		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#3052ac">
 		<meta name="msapplication-TileColor" content="#2b5797">
 		<meta name="theme-color" content="#ffffff">
-		<title>Birgit & Olivier | Huwelijksreis</title>
+		<title>Birgit & Olivier | Gastenboek</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
